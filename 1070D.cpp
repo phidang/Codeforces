@@ -2,7 +2,7 @@
 
 using namespace std;
 
-#define debug 01
+#define debug 0
 #define openfile {freopen("input.txt","r",stdin);}
 
 int n, k;
